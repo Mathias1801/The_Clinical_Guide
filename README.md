@@ -2,7 +2,7 @@
 
 Find Conceptual Demo hosted via streamlit here: https://kg-rag-demo-8vjfpvifgemxgmvtocmly3.streamlit.app/ 
 
-(The demo uses mock data)
+(The demo uses mock data. Demo may be outdated)
 
 
 # Repository Information
